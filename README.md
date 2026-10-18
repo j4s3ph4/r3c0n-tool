@@ -1,8 +1,7 @@
-# r3c0n-tool
-# r3c0n - Minimal Recon TUI
+# r3c0n-tool - Minimal Recon TUI
 Cross-platform recon for bug bounty. Termux / Linux / macOS.
 
-## Install
+## Install (one-liner)
 ```bash
-curl -sL https://raw.githubusercontent.com/YOURUSERNAME/r3c0n/main/install.sh | bash
-cd ~/r3c0n && ./r3c0n.sh
+curl -sL https://raw.githubusercontent.com/j4s3ph4/r3c0n-tool/main/install.sh | bash
+cd ~/r3c0n-tool && ./r3c0n.sh
